@@ -3,15 +3,14 @@ import { getAuth } from "firebase/auth";
 import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDRfTNL5XzyHKx2PFctb-ddk3imovzZvQ0",
-  authDomain: "diplom-a1718.firebaseapp.com",
-  databaseURL:
-    "https://diplom-a1718-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "diplom-a1718",
-  storageBucket: "diplom-a1718.appspot.com",
-  messagingSenderId: "701310193793",
-  appId: "1:701310193793:web:d9900da18841ae17d3fd80",
-  measurementId: "G-1MVVP7VECT",
+  apiKey: "AIzaSyB19NUS1POdAo3g9WfuObJUcIBWxxkIh5o",
+  authDomain: "diplom-f83f3.firebaseapp.com",
+  databaseURL: "https://diplom-f83f3-default-rtdb.firebaseio.com",
+  projectId: "diplom-f83f3",
+  storageBucket: "diplom-f83f3.appspot.com",
+  messagingSenderId: "446829331640",
+  appId: "1:446829331640:web:30470cbdbe0bb11c23604d",
+  measurementId: "G-4S9ZTPWDEG",
 };
 
 export const firebase = initializeApp(firebaseConfig);
