@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/diplom/static/css/main.04d40684.css",
-    "main.js": "/diplom/static/js/main.dcba99c0.js",
+    "main.js": "/diplom/static/js/main.ffa097ae.js",
     "static/media/slide3.jpeg": "/diplom/static/media/slide3.fad6a6811d2a5ab17b1f.jpeg",
     "static/media/slide1.jpeg": "/diplom/static/media/slide1.31c660a49404347ca281.jpeg",
     "static/media/logo.png": "/diplom/static/media/logo.3aac9b754ccf68341728.png",
     "static/media/slide2.jpeg": "/diplom/static/media/slide2.aa1983175bf1192bbd86.jpeg",
     "static/media/cart1.jpeg": "/diplom/static/media/cart1.a9fb832e72734e393df3.jpeg",
-    "static/media/furniture.svg": "/diplom/static/media/furniture.69455d62f951f0900b13087635af47b4.svg",
-    "static/media/furniture2.svg": "/diplom/static/media/furniture2.96153cdb3d93eb157bb68ecba28e24e9.svg",
+    "static/media/furniture.svg": "/diplom/static/media/furniture.89541c1a2abf4798720c05b5760018c8.svg",
     "static/media/blocks.svg": "/diplom/static/media/blocks.de1b95605582e9f6a8d8ef8529fea537.svg",
-    "static/media/furniture3.svg": "/diplom/static/media/furniture3.d1be12d5bfacdf67fcde11df102f8718.svg",
+    "static/media/furniture2.svg": "/diplom/static/media/furniture2.4288e14c703faac555bd7c865b00579e.svg",
+    "static/media/furniture3.svg": "/diplom/static/media/furniture3.2dda5ad57d6ef9876e671defcfbab44b.svg",
     "static/media/print.svg": "/diplom/static/media/print.e5b5d83c5451638ecb071ed7c8a8c05d.svg",
     "static/media/present.svg": "/diplom/static/media/present.c33cf4a5a1580e3fba0e642a1642b826.svg",
     "static/media/lightning.svg": "/diplom/static/media/lightning.74c5b566598610c17c5a6b3d93921b12.svg",
-    "static/media/furniture4.svg": "/diplom/static/media/furniture4.7d3f6bf68a37c2e47776ca83fc0ef46d.svg",
+    "static/media/furniture4.svg": "/diplom/static/media/furniture4.20bdbb7dc15fcd745f8496f30fe8df11.svg",
     "index.html": "/diplom/index.html",
     "main.04d40684.css.map": "/diplom/static/css/main.04d40684.css.map",
-    "main.dcba99c0.js.map": "/diplom/static/js/main.dcba99c0.js.map"
+    "main.ffa097ae.js.map": "/diplom/static/js/main.ffa097ae.js.map"
   },
   "entrypoints": [
     "static/css/main.04d40684.css",
-    "static/js/main.dcba99c0.js"
+    "static/js/main.ffa097ae.js"
   ]
 }
