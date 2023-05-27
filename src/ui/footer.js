@@ -1,5 +1,5 @@
 import { Divider, Box, Grid, Typography } from "@mui/material";
-import { Instagram, Facebook } from "@mui/icons-material";
+import { Telegram } from "@mui/icons-material";
 import { Link } from "./header";
 
 export const Footer = () => {
@@ -13,13 +13,13 @@ export const Footer = () => {
 
             <Grid container mt="20px">
               <Grid item xs={3}>
-                <Link to="/test">Доставка</Link>
+                <Link to="/delivery">Доставка</Link>
               </Grid>
               <Grid item xs={3}>
-                <Link to="/test">Оплата</Link>
+                <Link to="/payment">Оплата</Link>
               </Grid>
               <Grid item xs={3}>
-                <Link to="/test">Магазины</Link>
+                <Link to="/shop">Магазины</Link>
               </Grid>
             </Grid>
           </Grid>
@@ -29,10 +29,10 @@ export const Footer = () => {
 
             <Grid container mt="20px">
               <Grid item xs={3}>
-                <Link to="/test">О нас</Link>
+                <Link to="/about">О нас</Link>
               </Grid>
               <Grid item xs={3}>
-                <Link to="/test">Блог</Link>
+                <Link to="/news">Новости</Link>
               </Grid>
             </Grid>
           </Grid>
@@ -43,12 +43,7 @@ export const Footer = () => {
             <Grid container mt="20px">
               <Grid item xs={2}>
                 <Link to="/test">
-                  <Facebook />
-                </Link>
-              </Grid>
-              <Grid item xs={2}>
-                <Link to="/test">
-                  <Instagram />
+                  <Telegram />
                 </Link>
               </Grid>
             </Grid>

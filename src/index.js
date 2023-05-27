@@ -30,6 +30,12 @@ import "react-toastify/dist/ReactToastify.css";
 import "./index.css";
 import { useCart } from "./features/cart";
 import { useFavorite } from "./features/favorite";
+import { NewsPage } from "./pages/news/news";
+import { AboutPage } from "./pages/about";
+import { ShopPage } from "./pages/shop";
+import { SearchPage } from "./pages/search";
+import { PaymantPage } from "./pages/paymant";
+import { DeliveryPage } from "./pages/delivery";
 
 const t = createTheme({
   palette: {
@@ -141,6 +147,13 @@ const App = () => {
       />
       <Route path="/catalog/:type" element={<Catalog />} />
       <Route path="/catalog/:type/:id" element={<Product />} />
+
+      <Route path="/news" element={<NewsPage />} />
+      <Route path="/about" element={<AboutPage />} />
+      <Route path="/shop" element={<ShopPage />} />
+      <Route path="/search" element={<SearchPage />} />
+      <Route path="/payment" element={<PaymantPage />} />
+      <Route path="/delivery" element={<DeliveryPage />} />
     </Routes>
   );
 };
